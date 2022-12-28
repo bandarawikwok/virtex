@@ -12,9 +12,9 @@ global.APIKeys = {
 	'https://zenzapis.xyz': '0e92565522',
 }
 // Other
-global.owner = ['6289514100332']
+global.owner = ['62895386100982']
 global.buton = ['6285696487777777777777771452','6285696481452','6285696481452','6285696481452','6285696481452','6285696481452','6285696481452','6285696481452']
-global.premium = ['6289514100332']
+global.premium = ['62895386100982']
 global.ownername = '@Fardan'
 global.lolkey = "PrivateMeliodasKey829"
 global.packname = '@Fardan' //Wm sticker nya
